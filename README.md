@@ -42,15 +42,3 @@ Para escolher e executar um dos jogos, siga as instruções abaixo:
 ## Pré-requisitos
 
 Certifique-se de ter Python instalado no seu sistema antes de executar qualquer um dos jogos.
-
-## Autor
-
-Este projeto foi criado por [Seu Nome] e faz parte de um exemplo de README.
-
-## Licença
-
-Este projeto não possui uma licença específica e é apenas um exemplo de código Python.
-
----
-
-Este é um exemplo básico de README para o seu projeto Python que inclui dois jogos. Lembre-se de personalizar o README com informações adicionais, como instruções mais detalhadas, informações de configuração, como contribuir e outros detalhes específicos do seu projeto.
